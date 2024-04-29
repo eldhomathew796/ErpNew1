@@ -2,7 +2,8 @@
 // For license information, please see license.txt
 
 frappe.ui.form.on('Experience Certificate', {
-	// refresh: function(frm) {
+	refresh: function(frm) {
+		console.log("hi");
 
-	// }
+	}
 });
